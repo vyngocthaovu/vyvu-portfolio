@@ -12,6 +12,16 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
 
 ## Projects:
 - **Project 1**:
+  - Goal:
+    1. Automatically generate the report.
+    2. Check the duplicate records in the current report against the previous report.
+    3. Store the report in the designated folder.
+    4. Send the report to designated recipients on weekly basis.
+  - Technical tools:
+    1. Python and its libraries.
+    2. MS SQL query
+    3. Task Scheduler
+  - URL:
 - **Project 2**:
 
 ## Contact:
