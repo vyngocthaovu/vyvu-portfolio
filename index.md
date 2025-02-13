@@ -17,7 +17,7 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
     1. Retriever: [Sentence Transformers](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
     2. Large Language Model (LLM): [Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct)
   - Last Update: 12/20/2024
-  - URL:
+  - URL: [RAG-LLM](https://github.com/vyngocthaovu/RAG-LLM/blob/main/RAG-LLM_Example1_v3.ipynb)
     
 - **Project 2**:
   - Goal & Process:
