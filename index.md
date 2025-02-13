@@ -12,17 +12,26 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
 
 ## Projects:
 - **Project 1**:
-  - Goal:
-    1. Automatically generate the report.
-    2. Check the duplicate records in the current report against the previous report.
-    3. Store the report in the designated folder.
-    4. Send the report to designated recipients on weekly basis.
-  - Technical tools:
+  - Goal: Built Retrieval-Augmented Generation LLMs by using Llama-3.2-1B-Instruct and Sentence Transformers, enabling efficient document retrieval and question answering.
+  - Tech Stack:
+    1. Retriever: [Sentence Transformers](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+    2. Large Language Model (LLM): [Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct)
+  - Last Update: 12/20/2024
+  - URL:
+    
+- **Project 2**:
+  - Goal & Process:
+    1. Automate the weekly report generation process.
+    2. Identify and remove duplicate records by comparing the current report with the previous one.
+    3. Store the report in the designated folder for easy access.
+    4. Automatically send the report to designated recipients.
+  - Tech Stack:
     1. Python and its libraries.
     2. MS SQL query
     3. Task Scheduler
+  - Last Update: 11/12/2024
   - URL:
-- **Project 2**:
+  *Note: Since the data contains sensitive information, it will not be shared on GitHub. Only scripts will be provided*
 
 ## Contact:
-Email: vyngocthaovu@gmail.com
+Email: vyngocthaovu@gmail.com 
