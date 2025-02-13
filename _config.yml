@@ -3,4 +3,3 @@ description: Data Science Portfolio
 url: ""
 markdown: kramdown
 theme: jekyll-theme-midnight
-exclude: [vendor]
