@@ -1,4 +1,4 @@
-# Vy Vu's Portfolio
+# Data Science Portfolio
 
 ## About Me
 Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time Assistant Instructor at Johns Hopkins University.
