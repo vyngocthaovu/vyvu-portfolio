@@ -1,7 +1,5 @@
-# Data Science Portfolio
-
 ## About Me
-Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time Assistant Instructor at Johns Hopkins University.
+Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time Assistant Instructor at Johns Hopkins University. With a Master’s in Data Science and experience across industries like food & logistics, healthcare, public transportation, and education, I can combine technical skills with practical business sense to drive insights and solve real-world problems.
 
 ## Skills & Tools
 - **Programming & Scripting:** Python, R  
