@@ -12,7 +12,7 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
 
 ## Projects:
 - **Project 1**:
-  - Goal: Built Retrieval-Augmented Generation LLMs by using Llama-3.2-1B-Instruct and Sentence Transformers, enabling efficient document retrieval and question answering.
+  - Goal: Developed a Retrieval-Augmented Generation (RAG) LLM using Llama-3.2-1B-Instruct and Sentence Transformers to enhance document retrieval and question answering.
   - Tech Stack:
     1. Retriever: [Sentence Transformers](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
     2. Large Language Model (LLM): [Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct)
