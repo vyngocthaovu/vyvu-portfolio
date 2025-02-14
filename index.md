@@ -7,7 +7,7 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
 - **IDEs & Editors:** PyCharm, VS Code, Posit  
 - **Machine Learning & AI:** PyTorch, TensorFlow, Transformers  
 - **Databases:** MS SQL, MySQL, PostgreSQL, MongoDB  
-- **Data Engineering & DevOps:** Airflow, Spark, Docker  
+- **Data Engineering & DevOps:** Airflow, Spark, Hadoop, Docker  
 - **Data Visualization:** Tableau, ParaView  
 - **Version Control:** Git & GitHub  
 
@@ -36,9 +36,15 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
     
   *Note: Since the data contains sensitive information, it will not be shared on GitHub. Only scripts will be provided.*
 
-  - **Project 3**:
-    - Goal: Implemented machine learning algorithms to predict the heart disease (classification problem).
-    - Last Update:
+- **Project 3**:
+  - Goal: Implemented machine learning algorithms to predict the heart disease (classification problem).
+  - Last Update:
+  - URL:
+
+
+## Upcoming Projects:
+- Scalable Data Pipeline with Apache Spark, Airflow, and Docker.
+- Interative Tableau Dashboard. 
 
 
 ## Contact:
