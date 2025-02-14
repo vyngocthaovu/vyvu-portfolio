@@ -30,7 +30,8 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
     2. MS SQL query
     3. Task Scheduler
   - Last Update: 11/12/2024
-  - URL:
+  - URL: [weekly report generation process](https://github.com/vyngocthaovu/automate_report-generation_email-sending)
+    
   *Note: Since the data contains sensitive information, it will not be shared on GitHub. Only scripts will be provided*
 
 ## Contact:
