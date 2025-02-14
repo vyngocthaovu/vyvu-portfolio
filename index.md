@@ -1,6 +1,7 @@
 ## About Me
 Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time Assistant Instructor at Johns Hopkins University. With a Master’s in Data Science and experience across industries like food & logistics, healthcare, public transportation, and education, I can combine technical skills with practical business sense to drive insights and solve real-world problems.
 
+
 ## Skills & Tools
 - **Programming & Scripting:** Python, R  
 - **IDEs & Editors:** PyCharm, VS Code, Posit  
@@ -9,6 +10,7 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
 - **Data Engineering & DevOps:** Airflow, Spark, Docker  
 - **Data Visualization:** Tableau, ParaView  
 - **Version Control:** Git & GitHub  
+
 
 ## Projects:
 - **Project 1**:
@@ -32,7 +34,12 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
   - Last Update: 11/12/2024
   - URL: [weekly report generation process](https://github.com/vyngocthaovu/automate_report-generation_email-sending)
     
-  *Note: Since the data contains sensitive information, it will not be shared on GitHub. Only scripts will be provided*
+  *Note: Since the data contains sensitive information, it will not be shared on GitHub. Only scripts will be provided.*
+
+  - **Project 3**:
+    - Goal: Implemented machine learning algorithms to predict the heart disease (classification problem).
+    - Last Update:
+
 
 ## Contact:
 Email: vyngocthaovu@gmail.com 
