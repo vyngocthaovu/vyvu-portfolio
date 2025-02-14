@@ -39,7 +39,7 @@ Hi, I'm Vy Vu — a full-time Data Scientist at Access Services and a part-time 
 - **Project 3**:
   - Goal: Implemented machine learning algorithms to predict the heart disease (classification problem).
   - Last Update:
-  - URL:
+  - URL: [Heart Failure Prediction](https://github.com/vyngocthaovu/heart-disease_predictive-models/blob/main/HeartFailure-SVM-Gradientboosting_NeuralNetwork.ipynb)
 
 
 ## Upcoming Projects:
